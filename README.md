@@ -1,4 +1,4 @@
-*Project Goal*(power bi, tableau,sql)
+*Project Goal*(Power Bi, Tableau,Sql,Excel)
 
 To analyze employee attrition and uncover patterns and insights such as:
 - Which departments have the highest attrition,
